@@ -1,4 +1,4 @@
-# Data-analysis
+# Data Analysis using Python
 analysis data by classification, linear regression then prediction.
 I am uploading my internship project under Encryptix .
 * This contains total of three tasks:
